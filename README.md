@@ -49,7 +49,7 @@ Eine zirkuläre Queue ist ebenfalls eine lineare Datenstruktur und folgt dem "FI
 
 (Analog zur linearen Queue)
 
-#### Quellen:
+### Quellen:
 
 1. https://www.geeksforgeeks.org/introduction-and-array-implementation-of-queue/
 2. https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-circular-queue/
