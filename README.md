@@ -6,7 +6,7 @@ In diesem Repository werde ich aufklären, was man unter linearen und zirkuläre
 
 Eine lineare Queue (= Warteschlange) ist eine lineare Datenstruktur, die die zuerst eingetroffene Anfrage auch zuerst bearbeitet. Für dieses Prinzip wurde ein spezifischer Begriff geprägt, um die Bearbeitung in Queues besser zu beschreiben – das sogenannte “FIFO” (First in, First out) -Prinzip. Obendrauf kommt noch die Linearität, was einfach bedeutet, dass die Datenelemente in der Queue in linearer Weise verbunden sind. Diese Queue besteht wie viele andere aus zwei Zeigern – einer, der die Vorderseite (engl. Front), und einer, der die Rückseite (engl. Rear) angibt. Das Löschen erfolgt hierbei von der Vorderseite, das Löschen von der Rückseite.
 
-### Gängige Operationen einer linearen Queue: 
+### Gängige Operationen einer Linearen Queue: 
 - **Front:** Die Vorderseite/ der Anfang einer Queue
 - **Rear:** Die Rückseite/ das Ende einer Queue
 - **EnQueue(item):** Fügt ein Element am Ende einer Queue ein
@@ -14,3 +14,15 @@ Eine lineare Queue (= Warteschlange) ist eine lineare Datenstruktur, die die zue
 
 ### Grafische Darstellung einer Linearen Queue: 
 ![Bild](https://media.geeksforgeeks.org/wp-content/uploads/20220816162225/Queue.png)
+
+### Zeitkomplexität einer Linearen Queue:
+
+- EnQueue(item): O(1)
+- DeQueue(): O(1)
+- Peek(): O(1)
+
+## Speicherplatzkomplexität einer Linearen Queue:
+
+- EnQueue(item): O(n)
+- DeQueue(): O(n)
+- Peek(): O(n)
