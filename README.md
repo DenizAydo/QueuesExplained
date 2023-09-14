@@ -39,9 +39,7 @@ Eine zirkuläre Queue ist ebenfalls eine lineare Datenstruktur und folgt dem "FI
 (Analog zur Linearen Queue)
 
 ### Grafische Darstellung einer zirkulären Queue:
-<div align="center">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220608151111/UntitledDiagramdrawio-300x248.png" alt="Bild">
-</div>
+![Bild](https://media.geeksforgeeks.org/wp-content/uploads/20220608151111/UntitledDiagramdrawio-300x248.png)
 
 ### Zeitkomplexität einer zirkulären Queue:
 
