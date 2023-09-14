@@ -35,6 +35,7 @@ Eine lineare Queue (= Warteschlange) ist eine lineare Datenstruktur, die die zue
 Eine zirkuläre Queue ist ebenfalls eine lineare Datenstruktur und folgt dem "FIFO" Prinzip, genau wie die lineare Queue. Die zirkuläre Queue ist lediglich eine Art Anpassung der linearen Queue, bei der das Vordere und das hintere Ende miteinander verbunden sind, um die Platzverschwendung der linearen Queue zu optimieren und sie effizienter zu gestalten.
 
 ### Gängige Operationen in einer zirkulären Queue:
+![Bild](https://media.geeksforgeeks.org/wp-content/uploads/20220608151111/UntitledDiagramdrawio-300x248.png)
 
 (Analog zur Linearen Queue)
 
