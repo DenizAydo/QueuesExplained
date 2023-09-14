@@ -1,2 +1,2 @@
-# QueuesExplained
-Queues explained (Java&amp;Python)
+# Queues-Explained
+Queues as Arrays (Java &amp; Python)
