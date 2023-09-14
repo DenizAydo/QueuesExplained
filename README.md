@@ -13,4 +13,4 @@ Eine lineare Queue (= Warteschlange) ist eine lineare Datenstruktur, die die zue
 - **DeQueue():** Löscht ein Element vom Anfang der Queue
 
 ### Grafische Darstellung einer Linearen Queue: 
-![Bild](https://static.javatpoint.com/ds/images/ds-types-of-queue.png)
+![Bild](https://media.geeksforgeeks.org/wp-content/uploads/20220816162225/Queue.png)
